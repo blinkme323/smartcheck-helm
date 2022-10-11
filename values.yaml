@@ -727,7 +727,7 @@ tasks:
     ## will trigger the scheduled scan.
     ##
     ## Default value: true
-    enabled: true
+    enabled: false
 
     ## schedule controls the schedule for the scheduled scan. It is a string in
     ## [cron](https://en.wikipedia.org/wiki/Cron) format.
