@@ -1,0 +1,10 @@
+cloudOne:
+    apiKey: 2FzzuOZtfEjegt3g2fv0jqtaaSG
+    endpoint: https://container.de-1.cloudone.trendmicro.com
+auth:
+  ## secretSeed is used as part of the password generation process for
+  ## all auto-generated internal passwords, ensuring that each installation of
+  ## Deep Security Smart Check has different passwords.
+  ##
+  ## Default value: {must be provided by the installer}
+  secretSeed: Metroid82!@
